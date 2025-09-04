@@ -1,5 +1,4 @@
 # RiseFromZero
-# My Python Project
 
 A simple Python project to [briefly describe what your project does].
 
